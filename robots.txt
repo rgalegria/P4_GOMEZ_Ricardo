@@ -1,6 +1,18 @@
 User-agent: *
 Allow: /
 
+User-agent: *
+Disallow: /css
+
+User-agent: *
+Disallow: /fonts
+
+User-agent: *
+Disallow: /includes
+
+User-agent: *
+Disallow: /js
+
 User-agent: Googlebot-news
 Disallow: /
 
